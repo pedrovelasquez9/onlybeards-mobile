@@ -1,0 +1,7 @@
+{
+  "name": "onlybeards-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
